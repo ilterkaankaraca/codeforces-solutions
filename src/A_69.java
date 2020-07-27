@@ -5,7 +5,6 @@ public class A_69{
         Scanner scanner = new Scanner(System.in);
         boolean yes = true;
         int[] arr = new int[3];
-        //nextInt doesn't read new line because of this nextLine always return empty line
         int n = scanner.nextInt();
         for(int i=0;i<n;i++){
             for(int j=0;j<3;j++){
