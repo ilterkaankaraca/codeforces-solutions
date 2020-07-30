@@ -1,3 +1,5 @@
+package B;
+
 import java.util.Scanner;
 
 public class B_492 {
